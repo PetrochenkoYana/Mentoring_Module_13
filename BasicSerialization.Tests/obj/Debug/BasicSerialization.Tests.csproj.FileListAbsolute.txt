@@ -1,0 +1,8 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\bin\Debug\BasicSerialization.Tests.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\bin\Debug\BasicSerialization.Tests.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\bin\Debug\BasicSerialization.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\bin\Debug\BasicSerialization.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\obj\Debug\BasicSerialization.Tests.csprojResolveAssemblyReference.cache
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\obj\Debug\BasicSerialization.Tests.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Serialization\BasicSerialization.Tests\obj\Debug\BasicSerialization.Tests.pdb
